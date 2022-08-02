@@ -63,8 +63,29 @@ footer a:hover {
     color: antiquewhite;
 }
 
-#social {
+footer #social {
     padding: 10px 20px;
     font-size: 20px;
 }
+
+footer #social ul {
+    display: flex;
+    justify-content: center;
+}
+
+footer #social ul li {
+    list-style: none;
+}
+
+footer #social ul li a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 30px;
+    height: 30px;
+    border-radius: 30px;
+    background-color: antiquewhite;
+}
+
+
 
