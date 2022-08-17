@@ -105,47 +105,32 @@ h2 {
     text-emphasis-color: red;
 }
 
-#main-first-div {
-display:flex;
+#interest-first-div {
+display: flex;
 justify-content: space-evenly;
+padding-top: 20px;
+padding-bottom: 20px;
 }
 
-#main-second-div {
-display:flex;
-justify-content: space-around;
-}
-
-.Vicky {
-max-width: 490px;
+.Travel {
+max-width: 500px;
 text-align: center;
 font-size: larger;
-border: solid black 3px;
-padding: 20px;
+padding: 30px;
 }
 
-.Bear {
-font-size: larger;
-max-width: 290px;
-}
-
-.Cocktiels {
-max-width: 290px;
+.Loved-Ones {
+max-width: 500px;
 text-align: center;
 font-size: larger;
+padding: 30px;
 }
 
-.Seattle {
-max-width: 290px;
+.new {
+max-width: 600px;
 text-align: center;
 font-size: larger;
-padding-left: 20px;
-}
-
-.Ears {
-max-width: 325px;
-text-align: center;
-font-size: larger;
-padding-left: 20px;
+padding: 30px;
 }
 
 .image-border {
@@ -156,27 +141,11 @@ border:solid black 5px;
 padding: 5px;
 }
 
-#colors-purple {
-background-color: rgb(250, 182, 255);
-padding: 10px;
-}
-
-#colors-blue {
-background-color: rgb(182, 226, 255);
-padding: 6px;
-}
-
-#colors-green {
-background-color: rgb(150, 255, 229);
-padding: 8px;
-}
-
-#colors-red {
-background-color: rgb(245, 87, 87);
-padding: 8px;
-}
-
 #colors-white {
 background-color: rgb(255, 255, 255);
 padding: 8px;
 }
+
+
+
+
